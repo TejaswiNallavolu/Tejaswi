@@ -6,7 +6,7 @@
 - 💞️ I would like to work as a Software developer in a product based company.
 - 📫 My linked in profile is https://www.linkedin.com/in/tejaswi-reddy-24337720a/
 - 📫 Find me on github at https://github.com/TejaswiNallavolu/Tejaswi/
--  ![View my picture ](File_006.jpeg)
+- My photo ![View my picture ](File_006.jpeg)
 
  
 
