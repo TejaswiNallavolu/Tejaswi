@@ -6,8 +6,7 @@
 - 💞️ I would like to work as a 
 - 📫 My linked in profile is https://www.linkedin.com/in/tejaswi-reddy-24337720a/
 - 📫 Find me on github at https://github.com/TejaswiNallavolu/Tejaswi/
-- my 
-
+- View my picture ![File_006.jpeg]
 
  
 
