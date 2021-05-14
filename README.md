@@ -1,4 +1,4 @@
-# [11:35 AM] Nallavolu,Tejaswi Reddy
+# Nallavolu,Tejaswi Reddy
     
 - 👋 Hi, I’m Tejaswi Reddy Nallavolu and I would like to be called as Tejaswi. 
 - 👀 I’m currently pursuing masters degree in Applied Computer Science at Northwest Missouri State University.
