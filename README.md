@@ -10,7 +10,7 @@
 - <b>Email:</b> Tejaswireddynallavolu@gmail.com
 - 📫 My linkedin profile is https://www.linkedin.com/in/tejaswi-reddy-24337720a/
 - 📫 Find me on github at https://github.com/TejaswiNallavolu/Tejaswi/
-- <b>My photo</b> ![View my picture ](File_006.jpeg)
+
 
  
 
