@@ -9,7 +9,7 @@
 - <b>role:</b> Front-end web developer.
 - <b>Languages:</b> HTML, CSS, Javascript, Java, SQL.
 - <b>Email:</b> Tejaswireddynallavolu@gmail.com
-- My photo ![View my picture ](File_006.jpeg)
+- <b>My photo</b> ![View my picture ](File_006.jpeg)
 
  
 
