@@ -9,7 +9,7 @@
 - I'm good at above mentioned languages. 
 - <b>Email:</b> Tejaswireddynallavolu@gmail.com
 - 📫 My linkedin profile is https://www.linkedin.com/in/tejaswi-reddy-24337720a/
-- 📫 Find me on github at https://github.com/TejaswiNallavolu/Tejaswi/
+- 📫 Find me on github at https://github.com/TejaswiNallavolu
 
 
  
