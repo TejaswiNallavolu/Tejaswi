@@ -1,7 +1,7 @@
 # <b>Nallavolu,Tejaswi Reddy</b>
     
-- 👋 Hi, I’m Tejaswi Reddy Nallavolu and I would like to be called as <b>Tejaswi</b>. 
-- 👀 I’m currently pursuing masters degree in Applied Computer Science at <b>Northwest Missouri State University</b>.
+- 👋 Hi, I’m Tejaswi Reddy. 
+- 👀 I would like to be called as <b>Tejaswi</b>.
 - 🌱 I’ve worked as a <b>Process Executive</b> in Cognizant, Hyderabad.
 - 💞️ I would like to work as a <b>front-end developer</b>.
 - <b>Languages:</b> HTML, CSS, Javascript, Java, SQL.
