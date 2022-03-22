@@ -4,7 +4,10 @@
 - 👀 I would like to be called as <b>Tejaswi</b>.
 - 🌱 I’ve worked as a <b>Process Executive</b> in Cognizant, Hyderabad.
 - 💞️ I would like to work as a <b>front-end developer</b>.
-- <b>Languages:</b> HTML, CSS, Javascript, Java, SQL.
+- <b>Technologies:</b> ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
 - <b>Interested topics:</b> Web development, HTML, CSS, Javascrpit, Java.
 - I'm good at above mentioned languages. 
 <!--- - <b>Email:</b> Tejaswireddynallavolu@gmail.com
